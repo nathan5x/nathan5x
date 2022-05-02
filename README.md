@@ -2,7 +2,11 @@ Hi 👋 My name is Sabarinathan Masilamani
 ========================================
 UI/UX Engineer and Design Technologist
 --------------------------------------
-Design Technologist; Passionate in making products humanly accessible, performant and yet intuitive.* 🌍  I'm based in Palo Alto, CA* 🧠  I'm learning Machine Learning* 🤝  I'm open to collaborating on Plugins for Figma and Webpack, Angular, Vue and React projects
+Design Technologist; Passionate in making products humanly accessible, performant and yet intuitive.
+
+🌍  I'm based in Palo Alto, CA <br/>
+🧠  Currently, learning Machine Learning <br/>
+🤝  I'm open to collaborating on Plugins for Figma and Webpack, Angular, Vue and React projects <br/>
 
 <a href="https://www.twitter.com/nathan5x" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nathan5x?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
