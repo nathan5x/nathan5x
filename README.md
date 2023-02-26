@@ -5,7 +5,7 @@ Front-end Engineer and Design Technologist
 Design Technologist; Passionate in making products humanly accessible, performant and yet intuitive.
 
 🌍  I'm based in Palo Alto, CA <br/>
-🧠  Currently, learning Machine Learning <br/>
+🧠  Currently, learning NextJS and Machine Learning <br/>
 🤝  I'm open to collaborating on Plugins for Figma and Webpack, Angular, Vue and React projects <br/>
 
 <a href="https://www.twitter.com/nathan5x" target="_blank" rel="noreferrer"><img
