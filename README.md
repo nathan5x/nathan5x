@@ -1,6 +1,6 @@
 Hi 👋 My name is Sabarinathan Masilamani
 ========================================
-UI/UX Engineer and Design Technologist
+Front-end Engineer and Design Technologist
 --------------------------------------
 Design Technologist; Passionate in making products humanly accessible, performant and yet intuitive.
 
